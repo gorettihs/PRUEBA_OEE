@@ -1,4 +1,0 @@
-import pandas as pd
-from google.colab import drive
-drive.mount('/content/drive')
-df=pd.read_excel('/content/drive/Shareddrives/M3001C Sistemas y Tecnologías 4.0 (Industria 4.0)/OEE Bonafont/Registro_Excel.xlsx')
